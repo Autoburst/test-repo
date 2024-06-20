@@ -1,3 +1,5 @@
+
+//added comment
 public with sharing class MySampleClass {
 
     public MySampleClass() {
